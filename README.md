@@ -1,5 +1,7 @@
 Matlab implementation for Learning Kronecker-Structured Graphs from Smooth Signals
+
 Following our paper to access the EEG data and other baseline methods:
+
 ```
 @InProceedings{shi2025learning,
   title = 	 {Learning {K}ronecker-Structured Graphs from Smooth Signals},
