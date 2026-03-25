@@ -1,5 +1,5 @@
 # KSGL
-Matlab implementation for Learning Kronecker-Structured Graphs from Smooth Signals
+Matlab implementation for [Learning Kronecker-Structured Graphs from Smooth Signals](https://openreview.net/pdf?id=kuDtgSMEFn)
 
 Following our paper to access the EEG data and other baseline methods:
 ```
